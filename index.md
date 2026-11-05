@@ -6,10 +6,13 @@ permalink: /
 # Woo Hyun Kang
 *(A.K.A. Woohyun Kang)*
 
-**Ph.D. with expertise in speech signal processing and machine learning.**
+**Ph.D. with expertise in signal processing and machine learning.**
 
 ## Research Interest
 
+* **Multimodal processing**
+  * Audio-driven video lip synchronization
+  * Video to speech and audio generation
 * **Speech recognition**
   * Low resource language end-to-end automatic speech recognition
   * Word alignment for end-to-end automatic speech recognition
