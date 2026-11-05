@@ -1,4 +1,4 @@
-# whkang-pages
+# whkang-profile
 
 A personal academic website built using the al-folio Jekyll theme.
 
@@ -16,7 +16,7 @@ Then open <http://localhost:4000>.
 
 This repository contains a GitHub Actions workflow for Pages deployment. Once the workflow completes, the site will be available at:
 
-https://sloth-phd.github.io/whkang-pages
+https://sloth-phd.github.io/whkang-profile
 
 ## Notes
 
