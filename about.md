@@ -12,7 +12,7 @@ title: "About me"
   <li>
     <strong>Oracle</strong> (2026.03~present) | Remote
     <ul>
-      <li><strong>Principal Applied Scientist</strong> (2026.03~present): OCI AI</li>
+      <li><strong>Principal Applied Scientist</strong> (2026.03~present): OCI AI Science team </li>
     </ul>
   </li>
   <li>
