@@ -18,9 +18,9 @@ title: "About me"
   <li>
     <strong>Amazon</strong> (2022.12~2026.03) | Seattle, Washington, United States
     <ul>
-      <li><strong>Senior Applied Scientist</strong> (2025.06~2026.03): Prime Video CASP team</li>
-      <li><strong>Senior Applied Scientist</strong> (2025.03~2025.06): AWS AI Transcribe team</li>
-      <li><strong>Applied Scientist</strong> (2022.12~2025.03): AWS AI Transcribe team</li>
+      <li><strong>Senior Applied Scientist</strong> (2025.06~2026.03): Prime Video Science team</li>
+      <li><strong>Senior Applied Scientist</strong> (2025.03~2025.06): AWS AI Transcribe Science team</li>
+      <li><strong>Applied Scientist</strong> (2022.12~2025.03): AWS AI Transcribe Science team</li>
     </ul>
   </li>
   <li>
